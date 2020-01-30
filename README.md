@@ -35,11 +35,11 @@
 		s = input.next();
 		
 # // Power of Number: pow()
-//############
 Math.pow(base,exponent);
 
 
+
 # // sort of Array
-//############
+
 Arrays.sort(a);
 	
