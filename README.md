@@ -1,12 +1,6 @@
 # java-syntax-quick-note
 
-import java.util.ArrayList;
-import java.util.Scanner;
-
-public class PracticeJava {
-	public static void main(String[] args) {
-
-		// ArrayList
+#		// ArrayList
 		// ############
 		ArrayList<String> a = new ArrayList<String>();
 		a.add("one");
@@ -18,13 +12,13 @@ public class PracticeJava {
 		
 		
 
-		// String
+#		// String
 		// ############
 		String s = "This is String";
 		char[] c = s.toCharArray();
 		s.length();
 
-		// StringBuilder
+#		// StringBuilder
 		// ############
 		StringBuilder sb = new StringBuilder();
 		sb.append("this");
@@ -35,7 +29,7 @@ public class PracticeJava {
 		sb.toString();
 		sb.length();
 
-		// Scanner
+#		// Scanner
 		// ############
 		Scanner input = new Scanner(System.in);
 		s = input.next();
